@@ -1,6 +1,6 @@
 ## Hi there, I´m SandwichBtw
 
--  Hello, i'm a new developer currently learning Front-End web development and looking to learn Python, Java and Spigot.
+-  🖥Hello, i'm a new developer currently learning Front-End web development and looking to learn Python, Java and Spigot.
 -  How to reach me: sandwichbtw13@gmail.com
 -  Pronouns: he/him
 
