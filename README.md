@@ -8,8 +8,8 @@
 <div align="center">
   <a href="https://github.com/SandwichBtw">
    <!-- [![Sandwich's GitHub stats](https://github-readme-stats.vercel.app/api?username=SandwichBtw)](https://github.com/SandwichBtw/github-readme-stats) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliseflaneuse"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliseflaneuse"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SandwichBtw"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandwichBtw"/>
     
 </div>
 
@@ -32,7 +32,5 @@
   
 </div>
 <div>
-
-![Snake](https://github.com/SandwichBtw/SandwhichBtw/blob/output/github-contribution-grid-snake.svg)
 
 </div>
